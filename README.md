@@ -288,7 +288,7 @@ Below are some screenshots demonstrating the key features of the AI Career Guida
 
 The chatbot provides personalized career guidance and answers career-related questions using Groq AI.
 
-![AI Career Chatbot](assets/chatbot.jpeg)
+![AI Career Chatbot](assets/chatbot-home.jpeg)
 
 ---
 
@@ -296,7 +296,7 @@ The chatbot provides personalized career guidance and answers career-related que
 
 Collects student information such as education, interests, preferred domain, and career goals before generating personalized recommendations.
 
-![Student Intake Form](assets/intake.jpeg)
+![Student Intake Form](assets/intake-form.jpeg)
 
 ---
 
@@ -304,7 +304,7 @@ Collects student information such as education, interests, preferred domain, and
 
 Suggests relevant online courses based on the user's skills and career goals to bridge skill gaps.
 
-![Recommended Courses](assets/recommended.jpeg)
+![Recommended Courses](assets/recommended-courses.jpeg)
 
 ---
 
@@ -312,7 +312,7 @@ Suggests relevant online courses based on the user's skills and career goals to 
 
 Extracts technical skills, education, certifications, and experience from uploaded resumes.
 
-![Resume Parser](assets/resume.jpeg)
+![Resume Parser](assets/resume-parser.jpeg)
 
 ---
 
@@ -320,7 +320,7 @@ Extracts technical skills, education, certifications, and experience from upload
 
 Generates a structured learning roadmap with recommended skills and resources to achieve the selected career goal.
 
-![Learning Roadmap](assets/road.jpeg)
+![Learning Roadmap](assets/roadmap.jpeg)
 
 > **Note:** All screenshots shown above are from the actual implementation of the AI Career Guidance System.
 
